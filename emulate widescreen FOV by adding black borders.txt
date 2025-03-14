@@ -1,0 +1,3 @@
+/run WorldFrame:ClearAllPoints();
+/run WorldFrame:SetPoint("TOPLEFT", 0, -100);
+/run WorldFrame:SetPoint("BOTTOMRIGHT", 0, 100);

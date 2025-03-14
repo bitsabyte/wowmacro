@@ -1,0 +1,8 @@
+#showtooltip
+/use item:212971 (cauldron)
+/use item:212970
+/use item:212969
+
+/use item:212265 (normal)
+/use item:212264
+/use item:212263

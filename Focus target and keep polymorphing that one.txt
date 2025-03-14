@@ -1,0 +1,4 @@
+#showtooltip
+/clearfocus [target=focus,dead][target=focus,help][target=focus,noexists]
+/focus [target=focus,noexists]
+/cast [@focus,exists,harm,nodead][@mouseover,exists,harm,nodead][] Polymorph

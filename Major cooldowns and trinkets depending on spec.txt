@@ -1,0 +1,6 @@
+#showtooltip Combustion
+/use 13
+/use 14
+#showtooltip
+/cast [arcane:1]arcane power;[fire:2]combustion;[frost:3]icy veins
+/cast Mirror Image

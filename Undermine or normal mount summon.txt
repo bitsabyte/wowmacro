@@ -1,0 +1,3 @@
+/cast G-99 Breakneck
+/run C_MountJournal.SummonByID(0)
+/run UIErrorsFrame:Hide() C_Timer.After(0, function() UIErrorsFrame:Clear() UIErrorsFrame:Show() end)

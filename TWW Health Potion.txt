@@ -1,0 +1,8 @@
+#showtooltip
+/use item:211880 (algari)
+/use item:211879
+/use item:211878
+
+/use item:212244 (cavedwellers)
+/use item:212243
+/use item:212242
